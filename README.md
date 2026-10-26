@@ -1,6 +1,6 @@
-<p align="center"><img src="icon.png" width="128" alt="Subtitle Reader icon"></p>
 
-# Subtitle Reader
+
+# <p align="left"><img src="icon.png" width="50" alt="Subtitle Reader icon"> Subtitle Reader </p>
 
 A macOS menu bar app that reads the text in a screen area you choose aloud — handy for subtitles. Runs on both Apple silicon and Intel Macs (macOS 13+). No Xcode needed.
 
