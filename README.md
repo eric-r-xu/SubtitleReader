@@ -32,7 +32,7 @@ Subtitle Reader has no Dock icon or window. Click its icon in the **menu bar** a
 | **Select Area & Start…** (⌘S) | Dims the screen. Drag a rectangle over the subtitles to start reading, or press **Esc** to cancel. |
 | **Resume Last Area** (⌘R) | Starts reading the area you selected last time again. |
 | **Stop Reading** (⌘.) | Stops reading. |
-| **Follow White-on-Black Text** | When checked, reads only the white-on-black text inside the area and ignores everything else. Recommended for subtitles. |
+| **Follow White-on-Black Text** | When checked, reads only the white-on-black text inside the area and ignores everything else. If the area holds several separate white-on-black sections (for example, a caption at the top and another at the bottom), it reads all of them, top to bottom. Recommended for subtitles. |
 | **Voice** | Chooses the voice. Voices for your language are listed first; others are under **Other Languages**. |
 | **Speed** | Chooses how fast it speaks, from **Slowest** (120 words per minute) to **Fastest** (320). |
 | **Volume** | Sets the volume to 25%, 50%, 75% or 100%. |
